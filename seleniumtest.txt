@@ -1,3 +1,4 @@
 Selenium page objects
 utilities package
 pom file
+feature line added to the file
